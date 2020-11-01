@@ -10,7 +10,7 @@ public class CreateUsers {
 	List<User> UsersList = new ArrayList <User> ();
 	
 	Scanner sc= new Scanner(System.in);    //System.in is a standard input stream  
-	for(int i=0; i<2; i++) {
+	for(int i=0; i<3; i++) {
 	
 	System.out.print("Enter Employee ID number ");  
 	String a= sc.nextLine();
